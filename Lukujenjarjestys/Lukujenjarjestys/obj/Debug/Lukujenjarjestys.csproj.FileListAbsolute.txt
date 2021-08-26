@@ -1,0 +1,10 @@
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\obj\Debug\Lukujenjarjestys.csprojAssemblyReference.cache
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\obj\Debug\Lukujenjarjestys.Form1.resources
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\obj\Debug\Lukujenjarjestys.Properties.Resources.resources
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\obj\Debug\Lukujenjarjestys.csproj.GenerateResource.cache
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\obj\Debug\Lukujenjarjestys.csproj.CoreCompileInputs.cache
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\bin\Debug\Lukujenjarjestys.exe.config
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\bin\Debug\Lukujenjarjestys.exe
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\bin\Debug\Lukujenjarjestys.pdb
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\obj\Debug\Lukujenjarjestys.exe
+C:\Users\jesse.sallinen\source\repos\Lukujenjarjestys\Lukujenjarjestys\obj\Debug\Lukujenjarjestys.pdb
