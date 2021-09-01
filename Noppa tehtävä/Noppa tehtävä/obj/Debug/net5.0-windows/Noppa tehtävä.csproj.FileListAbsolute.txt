@@ -1,0 +1,19 @@
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\bin\Debug\net5.0-windows\Noppa tehtävä.exe
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\bin\Debug\net5.0-windows\Noppa tehtävä.deps.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\bin\Debug\net5.0-windows\Noppa tehtävä.runtimeconfig.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\bin\Debug\net5.0-windows\Noppa tehtävä.runtimeconfig.dev.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\bin\Debug\net5.0-windows\Noppa tehtävä.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\bin\Debug\net5.0-windows\ref\Noppa tehtävä.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\bin\Debug\net5.0-windows\Noppa tehtävä.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa tehtävä.csproj.AssemblyReference.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa_tehtävä.Form1.resources
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa_tehtävä.Properties.Resources.resources
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa tehtävä.csproj.GenerateResource.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa tehtävä.AssemblyInfoInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa tehtävä.AssemblyInfo.cs
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa tehtävä.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\ref\Noppa tehtävä.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa tehtävä.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Noppa tehtävä\Noppa tehtävä\obj\Debug\net5.0-windows\Noppa tehtävä.genruntimeconfig.cache
