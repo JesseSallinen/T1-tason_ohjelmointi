@@ -1,0 +1,23 @@
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\CRUD tehtava.exe.config
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\CRUD tehtava.exe
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\CRUD tehtava.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\MySql.Data.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\Google.Protobuf.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\Zstandard.Net.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\System.Memory.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\System.Buffers.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\bin\Debug\MySql.Data.xml
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\obj\Debug\CRUD tehtava.csproj.AssemblyReference.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\obj\Debug\CRUD_tehtava.Form1.resources
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\obj\Debug\CRUD_tehtava.Properties.Resources.resources
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\obj\Debug\CRUD tehtava.csproj.GenerateResource.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\obj\Debug\CRUD tehtava.csproj.CoreCompileInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\obj\Debug\CRUD tehtava.exe
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\CRUD tehtava\CRUD tehtava\obj\Debug\CRUD tehtava.pdb
