@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "RJAidtPAxKZoTrTyUk4Uj4OBVekWFNDr6lGbgGHv+yYkd0vXgPHXnNaPxmLQ+5drMD5C2FWpreoR72v+ao5auQ==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Tarja\\source\\repos\\T1-tason_ohjelmointi\\Roomalaiset numerot\\Roomalaiset numerot\\Roomalaiset numerot.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "RJAidtPAxKZoTrTyUk4Uj4OBVekWFNDr6lGbgGHv+yYkd0vXgPHXnNaPxmLQ+5drMD5C2FWpreoR72v+ao5auQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarja\\source\\repos\\T1-tason_ohjelmointi\\Roomalaiset numerot\\Roomalaiset numerot\\Roomalaiset numerot.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8
 }

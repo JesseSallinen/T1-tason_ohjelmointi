@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "Gn0OgxCleFgd/gXkUwScGiUeDqqSJcjDao3q4Kwc4BK3R1L5oC/TLVA1kpTzqRUve+oSFYevrdxs6s9MSvbr2Q==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Tarja\\source\\repos\\T1-tason_ohjelmointi\\Ajastin\\Ajastin\\Ajastin.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "Gn0OgxCleFgd/gXkUwScGiUeDqqSJcjDao3q4Kwc4BK3R1L5oC/TLVA1kpTzqRUve+oSFYevrdxs6s9MSvbr2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarja\\source\\repos\\T1-tason_ohjelmointi\\Ajastin\\Ajastin\\Ajastin.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8
 }

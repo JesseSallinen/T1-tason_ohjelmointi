@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\Nimi tehtava.exe
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\Nimi tehtava.deps.json
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\Nimi tehtava.runtimeconfig.json
@@ -16,3 +17,23 @@ C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\D
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\ref\Nimi tehtava.dll
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.pdb
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.genruntimeconfig.cache
+=======
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\Nimi tehtava.exe
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\Nimi tehtava.deps.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\Nimi tehtava.runtimeconfig.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\Nimi tehtava.runtimeconfig.dev.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\Nimi tehtava.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\ref\Nimi tehtava.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\bin\Debug\net5.0-windows\Nimi tehtava.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.csproj.AssemblyReference.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi_tehtava.Form1.resources
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.csproj.GenerateResource.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.AssemblyInfoInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.AssemblyInfo.cs
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.csproj.CoreCompileInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\ref\Nimi tehtava.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Nimi tehtava\Nimi tehtava\obj\Debug\net5.0-windows\Nimi tehtava.genruntimeconfig.cache
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8

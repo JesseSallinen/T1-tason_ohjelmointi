@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "iz9vz+UO1kk0JZmOI/kQw0alMk8KzD7MOmtr2GQMk8rNwEMjIt9fYupNttR/Uk+bocmUBpxZmQ+KKXRLBw4PDw==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Tarja\\source\\repos\\T1-tason_ohjelmointi\\Muistio\\Muistio\\Muistio.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "iz9vz+UO1kk0JZmOI/kQw0alMk8KzD7MOmtr2GQMk8rNwEMjIt9fYupNttR/Uk+bocmUBpxZmQ+KKXRLBw4PDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarja\\source\\repos\\T1-tason_ohjelmointi\\Muistio\\Muistio\\Muistio.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8
 }

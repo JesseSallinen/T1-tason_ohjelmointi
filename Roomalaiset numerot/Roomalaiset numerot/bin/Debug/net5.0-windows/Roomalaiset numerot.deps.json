@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v5.0",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Roomalaiset numerot/1.0.0": {
+        "runtime": {
+          "Roomalaiset numerot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Roomalaiset numerot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8
 }

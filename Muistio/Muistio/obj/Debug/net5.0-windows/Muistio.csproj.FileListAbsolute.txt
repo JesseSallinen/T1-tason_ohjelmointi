@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\Muistio.exe
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\Muistio.deps.json
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\Muistio.runtimeconfig.json
@@ -16,3 +17,23 @@ C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\ref\Muistio.dll
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.pdb
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.genruntimeconfig.cache
+=======
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\Muistio.exe
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\Muistio.deps.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\Muistio.runtimeconfig.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\Muistio.runtimeconfig.dev.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\Muistio.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\ref\Muistio.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\bin\Debug\net5.0-windows\Muistio.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.csproj.AssemblyReference.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.NotepadForm.resources
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.csproj.GenerateResource.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.AssemblyInfoInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.AssemblyInfo.cs
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.csproj.CoreCompileInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\ref\Muistio.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Muistio\Muistio\obj\Debug\net5.0-windows\Muistio.genruntimeconfig.cache
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "4zVEevGSmai5o5pg+HP7eZA8rABKwaLTX+ggpddnlKXP0EoP4bIFvjPJj0fJ4J75Ies4GLJ1MqDwhN9ca4KHeg==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Tarja\\source\\repos\\T1-tason_ohjelmointi\\Nimi tehtava\\Nimi tehtava\\Nimi tehtava.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "4zVEevGSmai5o5pg+HP7eZA8rABKwaLTX+ggpddnlKXP0EoP4bIFvjPJj0fJ4J75Ies4GLJ1MqDwhN9ca4KHeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarja\\source\\repos\\T1-tason_ohjelmointi\\Nimi tehtava\\Nimi tehtava\\Nimi tehtava.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8
 }

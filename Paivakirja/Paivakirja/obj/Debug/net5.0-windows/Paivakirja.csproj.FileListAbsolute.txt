@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\Paivakirja.exe
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\Paivakirja.deps.json
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\Paivakirja.runtimeconfig.json
@@ -16,3 +17,23 @@ C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\ref\Paivakirja.dll
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.pdb
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.genruntimeconfig.cache
+=======
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\Paivakirja.exe
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\Paivakirja.deps.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\Paivakirja.runtimeconfig.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\Paivakirja.runtimeconfig.dev.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\Paivakirja.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\ref\Paivakirja.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\bin\Debug\net5.0-windows\Paivakirja.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.csproj.AssemblyReference.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.DiaryForm.resources
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.csproj.GenerateResource.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.AssemblyInfoInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.AssemblyInfo.cs
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\ref\Paivakirja.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Paivakirja\Paivakirja\obj\Debug\net5.0-windows\Paivakirja.genruntimeconfig.cache
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8

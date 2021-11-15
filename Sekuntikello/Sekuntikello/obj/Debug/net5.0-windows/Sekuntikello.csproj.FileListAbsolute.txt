@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\Sekuntikello.exe
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\Sekuntikello.deps.json
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\Sekuntikello.runtimeconfig.json
@@ -16,3 +17,23 @@ C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\D
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\ref\Sekuntikello.dll
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.pdb
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.genruntimeconfig.cache
+=======
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\Sekuntikello.exe
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\Sekuntikello.deps.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\Sekuntikello.runtimeconfig.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\Sekuntikello.runtimeconfig.dev.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\Sekuntikello.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\ref\Sekuntikello.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\bin\Debug\net5.0-windows\Sekuntikello.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.csproj.AssemblyReference.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.Form1.resources
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.csproj.GenerateResource.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.AssemblyInfoInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.AssemblyInfo.cs
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\ref\Sekuntikello.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Sekuntikello\Sekuntikello\obj\Debug\net5.0-windows\Sekuntikello.genruntimeconfig.cache
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8

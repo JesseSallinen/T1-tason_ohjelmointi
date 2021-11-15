@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\Pudotusvalikko.exe
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\Pudotusvalikko.deps.json
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\Pudotusvalikko.runtimeconfig.json
@@ -16,3 +17,23 @@ C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\o
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\ref\Pudotusvalikko.dll
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.pdb
 C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.genruntimeconfig.cache
+=======
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\Pudotusvalikko.exe
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\Pudotusvalikko.deps.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\Pudotusvalikko.runtimeconfig.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\Pudotusvalikko.runtimeconfig.dev.json
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\Pudotusvalikko.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\ref\Pudotusvalikko.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\bin\Debug\net5.0-windows\Pudotusvalikko.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.csproj.AssemblyReference.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.AvainhenkilotForm.resources
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.csproj.GenerateResource.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.AssemblyInfoInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.AssemblyInfo.cs
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.csproj.CoreCompileInputs.cache
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\ref\Pudotusvalikko.dll
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.pdb
+C:\Users\Tarja\source\repos\T1-tason_ohjelmointi\Pudotusvalikko\Pudotusvalikko\obj\Debug\net5.0-windows\Pudotusvalikko.genruntimeconfig.cache
+>>>>>>> cf4a7331201bba4497bca652cdcc74bf07e966b8
